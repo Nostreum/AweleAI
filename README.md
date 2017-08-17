@@ -27,7 +27,7 @@ functions coefficient.
   
 # Data
 
-Datas are saved in the "Donnees" folder.
+Data are saved in the "Donnees" folder.
 
 # Other
 
