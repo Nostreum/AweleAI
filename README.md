@@ -3,7 +3,7 @@
 This project is an AI for the Awele game (https://en.wikipedia.org/wiki/Oware). 
 To launch, go to Awele/NParties folder and start menu.py script. 
 
-# Players
+## Players
 
 All differents AI are inside the "Joueurs" folder. Here a quick explanation : 
 
@@ -15,7 +15,7 @@ All differents AI are inside the "Joueurs" folder. Here a quick explanation :
   - joueur_ab : Alpha-Beta algorithm
   - joueur_neuronne : Neural Network (TODO)
 
-# Learning phase
+## Learning phase
 
 All different learning method are inside the NParties folder. This phase try to determine the best value for the evaluation
 functions coefficient.
@@ -25,11 +25,11 @@ functions coefficient.
   - population_genetique : genetic algorithm
   - neuronne : Neural Network 
   
-# Data
+## Data
 
 Data are saved in the "Donnees" folder.
 
-# Other
+## Other
 
   - game.py : Contain all functions to handle a game
   - awele.py : Coutain all functions to play a game
