@@ -32,4 +32,4 @@ Data are saved in the "Donnees" folder.
 # Other
 
   - game.py : Contain all functions to handle a game
-  - awele.py : Countain all functions to play a game
+  - awele.py : Coutain all functions to play a game
